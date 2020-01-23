@@ -6,8 +6,9 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            //Display Hello World
+            //Display press any key
             Console.WriteLine("Press any key to continue...");
+            //Display Hello World
             Console.WriteLine("Hello World!");
             Console.ReadKey(true);
         }
